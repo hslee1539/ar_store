@@ -65,5 +65,5 @@ fastlane/test_output
 fastlane/readme.md
 
 # so file
-.so
-.a
+*.so
+*.a
